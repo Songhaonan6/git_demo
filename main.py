@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('hot-fix')
     print_hi('push test')
+    print_hi('add readme')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
